@@ -37,11 +37,21 @@
 .buttona{
     text-align: center;
     border: 0;
-    padding-top: 10%;
+    padding-top: 2%;
 }
 .change{
     padding-top:2%;
 }
 .changed{
     padding-top: 6%;
+}
+#background-video { display:flex;
+position: relative;
+padding-left: 6%; }
+    body {
+      background: url("images/c.mp4") repeat;
+      background-size: cover;
+    }
+label{
+    color: aliceblue;
 }
