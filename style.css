@@ -1,10 +1,25 @@
 .body{
-    background-color: darkgray;
-    background-image: none;
+    background-image: url('images/1.jpg');
 }
 .navbar{
     background-color: brown;
 }
 .footer{
     background-color: darkgreen;
+}
+.btnx{
+    background-color: red;
+    color: white;
+}
+.btnh{
+    background-color: blue;
+    color: whitesmoke;
+}
+.btnm{
+    background-color: aliceblue;
+    color: black;
+}
+.buttonb{
+    position: relative;
+    
 }
