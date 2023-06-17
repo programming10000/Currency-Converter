@@ -1,5 +1,6 @@
 .body{
     background-image: url('images/1.jpg');
+    
 }
 .navbar{
     background-color: brown;
@@ -22,4 +23,25 @@
 .buttonb{
     position: relative;
     
+    text-align: right;
+    border: 0;
+}
+.header{
+    background-color: green;
+
+}
+.header{
+    color: aliceblue;
+    text-align: center;
+}
+.buttona{
+    text-align: center;
+    border: 0;
+    padding-top: 10%;
+}
+.change{
+    padding-top:2%;
+}
+.changed{
+    padding-top: 6%;
 }
